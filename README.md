@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Computer Science student passionate about technology and cybersecurity.<br><br>💻 Java | Python | JavaScript  <br>🌐 Web Development & Programming Logic  <br>🔐 Future focus: Cybersecurity, system security & secure coding practices  <br><br>Always learning. Always building. Always improving.</p>
+<p align="left">Computer Science student passionate about technology and cybersecurity.<br><br>💻 Python <br>🌐 Web Development & Programming Logic  <br>🔐 Future focus: Cybersecurity, system security & secure coding practices  <br><br>Always learning. Always building. Always improving.</p>
 
 ###
 
@@ -28,8 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
