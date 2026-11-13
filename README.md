@@ -1,34 +1,71 @@
-<div align="center">
-  <img src="assets/header.svg" alt="Emilly Durkheim — Software Development, Cloud & AI" width="100%" />
-  <p><strong>Computer Science undergraduate · Brazil</strong></p>
-  <p><em>Building useful software with curiosity, creativity, and care.</em></p>  <a href="https://github.com/emillydurkheim"><img src="https://img.shields.io/badge/GitHub-344B50?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/emillydurkheim/"><img src="https://img.shields.io/badge/LinkedIn-A8DDD4?style=flat-square&logo=linkedin&logoColor=344B50" alt="LinkedIn" /></a>
-</div>01 · hello, world! 🌿
-I'm Emilly, a Computer Science student exploring the intersection of software development, cloud computing, and artificial intelligence.
+# emilly durkheim.
 
-At Aegea Saneamento, I work in the engineering projects area and have been developing an internal Autodesk Construction Cloud (ACC) access-management solution using Microsoft Power Apps and SharePoint, with workflow automation and reporting integrations planned.
+**Computer Science Student · Software Development · Cloud & AI**
 
-I enjoy creating practical applications, learning how systems work, and turning ideas into thoughtful digital experiences.
-- 🎓 Computer Science · Expected graduation: 2028
-- ☁️ Google Cloud Computing Foundations · Completed
-- 🧠 Google DeepMind AI Research Foundations · In progress
-- 🌍 Languages · Portuguese (native), English (advanced)
-02 · languages & tools
-<div align="center">Development
-<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,fastapi,flask&perline=8" alt="Python, JavaScript, HTML, CSS, React, Node.js, FastAPI and Flask" />
+*Building thoughtful software, exploring complex systems, and turning ideas into useful digital experiences.*
 
+---
 
-Mobile, databases & cloud
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,gcp,git,github,vscode&perline=6" alt="PostgreSQL, SQLite, Google Cloud, Git, GitHub and VS Code" />
+### 01 / about me
 
-04 · currently exploring
-- Software engineering: Python, APIs, web and mobile applications
-- Cloud: Google Cloud infrastructure, deployment and services
-- AI: machine learning foundations and AI research
-- Business applications: Power Platform solutions and process design
-05 · a little more about me
-I believe good software should be useful, understandable, and thoughtfully designed. I like experimenting with visual ideas just as much as solving technical problems — and I'm always looking for the next thing to learn.
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A8DDD4,50:F2BFD0,100:F8E5A5&height=85&section=footer" width="100%" alt="Pastel wave footer" />
-  <sub>made with curiosity & a little seafoam green ♡</sub>
-</div>
+Hello, world! I'm Emilly, a Computer Science undergraduate based in Brazil.
+
+I'm interested in the intersection of **software engineering, cloud computing, artificial intelligence, and digital product development**.
+
+Currently, I work at **Aegea Saneamento**, where I'm gaining experience with corporate technology solutions and developing an internal access-management application using Microsoft's Power Platform.
+
+Outside of work and university, I enjoy building independent projects, experimenting with new technologies, and learning how systems work beyond the surface.
+
+- 🎓 Computer Science undergraduate — expected graduation in 2028
+- ☁️ Google Cloud Computing Foundations — completed
+- 🧠 Google DeepMind AI Research Foundations — in progress
+- 🌎 Portuguese (native) · English (advanced)
+
+### 02 / tech stack
+
+**Languages & fundamentals**
+
+Python · JavaScript · HTML · CSS · SQL
+
+**Frameworks & development**
+
+React · React Native · FastAPI · Flask · Node.js
+
+**Databases & cloud**
+
+PostgreSQL · SQLite · Google Cloud
+
+**Platforms & tools**
+
+Git · GitHub · VS Code · Power Apps · SharePoint · Power Automate · Power BI
+
+### 03 / selected work
+
+**404 Museum**  
+An experimental digital exhibition exploring web errors through brutalist editorial design.
+
+`HTML` `CSS` `JavaScript`
+
+[Explore the project](https://github.com/emillydurkheim/404-museum)
+
+**Traceback — Python Debugging Challenge**  
+An interactive learning concept built around understanding Python exceptions, investigating errors, and developing debugging skills.
+
+`Python` `Debugging` `Problem Solving`
+
+*In development.*
+
+### 04 / currently exploring
+
+- Building practical applications with Python and modern web technologies
+- Studying machine learning fundamentals and AI research
+- Exploring cloud infrastructure and application deployment
+- Designing software that solves real-world problems
+
+### 05 / connect
+
+[GitHub](https://github.com/emillydurkheim) · [LinkedIn](https://www.linkedin.com/in/emillydurkheim/)
+
+---
+
+*Stay curious. Build intentionally. Keep learning.*
